@@ -1,0 +1,36 @@
+<application>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="C:\Users\itai\AppData\Local\Programs\Python\Python36\python.exe" value="false" />
+        <entry key="C:\Users\itai\AppData\Local\Temp\ex71.py\venv\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\itai\AppData\Local\Temp\screen.py\venv\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\itai\ex4\Scripts\python.exe" value="false" />
+        <entry key="D:\WinPython-64bit-3.6.3.0Qt5\python-3.6.3.amd64\python.exe" value="true" />
+        <entry key="D:\לימודים\הסקריפטים שלי\ex6\venv\Scripts\python.exe" value="false" />
+        <entry key="D:\לימודים\הסקריפטים שלי\ex9\venv\Scripts\python.exe" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="C:\Users\itai\AppData\Local\Programs\Python\Python36\python.exe" value="false" />
+        <entry key="C:\Users\itai\AppData\Local\Temp\ex71.py\venv\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\itai\AppData\Local\Temp\screen.py\venv\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\itai\ex4\Scripts\python.exe" value="false" />
+        <entry key="D:\WinPython-64bit-3.6.3.0Qt5\python-3.6.3.amd64\python.exe" value="false" />
+        <entry key="D:\לימודים\הסקריפטים שלי\ex6\venv\Scripts\python.exe" value="false" />
+        <entry key="D:\לימודים\הסקריפטים שלי\ex9\venv\Scripts\python.exe" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_TRIALTEST">
+      <map>
+        <entry key="C:\Users\itai\AppData\Local\Programs\Python\Python36\python.exe" value="false" />
+        <entry key="C:\Users\itai\AppData\Local\Temp\ex71.py\venv\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\itai\AppData\Local\Temp\screen.py\venv\Scripts\python.exe" value="false" />
+        <entry key="D:\WinPython-64bit-3.6.3.0Qt5\python-3.6.3.amd64\python.exe" value="false" />
+        <entry key="D:\לימודים\הסקריפטים שלי\ex6\venv\Scripts\python.exe" value="false" />
+        <entry key="D:\לימודים\הסקריפטים שלי\ex9\venv\Scripts\python.exe" value="false" />
+      </map>
+    </option>
+  </component>
+</application>
