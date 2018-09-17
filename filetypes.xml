@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping ext="run" type="Cython" />
       <mapping pattern="asteroids" type="PLAIN_TEXT" />
+      <mapping ext="1" type="PLAIN_TEXT" />
       <mapping pattern="rushHourgame" type="Python" />
       <mapping ext="pyd" type="Python" />
     </extensionMap>
